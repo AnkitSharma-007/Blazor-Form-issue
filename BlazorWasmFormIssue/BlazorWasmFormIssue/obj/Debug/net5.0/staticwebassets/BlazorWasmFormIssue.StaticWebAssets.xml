@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="F:\Personal Projects\Blazor-Form-issue\BlazorWasmFormIssue\BlazorWasmFormIssue\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="F:\Personal Projects\Blazor-Form-issue\BlazorWasmFormIssue\BlazorWasmFormIssue\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
